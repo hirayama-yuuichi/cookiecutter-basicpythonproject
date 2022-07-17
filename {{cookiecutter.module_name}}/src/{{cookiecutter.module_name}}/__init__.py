@@ -1,5 +1,5 @@
 """{{ cookiecutter.project_name }}
-By {{ cookiecutter.author_name }} {{ cookiecutter.author_email }}
+By hirayama yuuichi hirayama.yuuichi@gmail.com
 
 {{ cookiecutter.project_short_description }}"""
 

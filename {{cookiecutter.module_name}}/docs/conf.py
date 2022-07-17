@@ -20,8 +20,8 @@
 # -- Project information -----------------------------------------------------
 
 project = '{{ cookiecutter.project_name }}'
-copyright = '2018, {{ cookiecutter.author_name }}'
-author = '{{ cookiecutter.author_name }}'
+copyright = '2018, hirayama yuuichi'
+author = 'hirayama yuuichi'
 
 # The short X.Y version
 version = ''
@@ -132,7 +132,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
     (master_doc, '{{ cookiecutter.module_name }}.tex', '{{ cookiecutter.project_name }} Documentation',
-     '{{ cookiecutter.author_name }}', 'manual'),
+     'hirayama yuuichi', 'manual'),
 ]
 
 

@@ -19,9 +19,9 @@ with io.open("README.md", encoding="utf-8") as fileObj:
 setup(
     name="{{ cookiecutter.project_name }}",
     version=version,
-    url="https://github.com/{{ cookiecutter.github_username }}/{{ cookiecutter.module_name }}",
-    author="{{ cookiecutter.author_name }}",
-    author_email="{{ cookiecutter.author_email }}",
+    url="https://github.com/hirayama-yuuichi/{{ cookiecutter.module_name }}",
+    author="hirayama yuuichi",
+    author_email="hirayama.yuuichi@gmail.com",
     description=("""{{ cookiecutter.project_short_description }}"""),
     long_description=long_description,
     long_description_content_type="text/markdown",
